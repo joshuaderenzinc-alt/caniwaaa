@@ -34,3 +34,14 @@ td { border-bottom: 1px solid #ccc; padding: 0.5rem; }
 h1, h2 { color: #5d4037; }
 
 .pasos { border-left: 3px solid #8d6e63; padding-left: 1rem; }
+.logo {
+    width: 200px;
+    height: auto;
+}
+
+.imagen-producto {
+    width: 350px;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+}
